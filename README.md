@@ -1,16 +1,14 @@
-### Hi there 👋
+## Languages
+* 🐍 - Python
+* 🌎 - Node.JS
 
-<!--
-**PieterSpruijt/PieterSpruijt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+* Twitter - [@PieterSpruijt](https://twitter.com/PieterSpruijt)
+* Discord Server - [Invite Link](https://www.PieterSpruijt.nl/discord)
+* Website - [pietespruijt.nl](https://pieterspruijt.nl)
+* Email - pieter@pieterspruijt.nl
+* Discord - PieterSpruijt#5136
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PieterSpruijt github stats](https://github-readme-stats.vercel.app/api?username=PieterSpruijt&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
