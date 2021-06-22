@@ -1,6 +1,8 @@
 ## Languages
 * 🐍 - Python
 * 🌎 - Node.JS
+* 🌐 - HTML/CSS
+* ☕ - Learning Java
 
 ## Projects
 Essentials bot on discord: [Invite](https://www.essentialsbot.ga/links/invite.html), [Website](https://www.essentialsbot.ga/), [Support Server](https://www.essentialsbot.ga/links/support.html)
