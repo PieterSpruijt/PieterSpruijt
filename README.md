@@ -24,4 +24,8 @@
 
 <br>
 
-![PieterSpruijt github stats](https://github-readme-stats.vercel.app/api?username=PieterSpruijt&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![profile] ![languages]
+
+[profile]: https://github-readme-stats.vercel.app/api?username=PieterSpruijt&show_icons=true&theme=radical&include_all_commits=true&count_private=true
+
+[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=PieterSpruijt&show_icons=true&theme=radical&include_all_commits=true&count_private=true
