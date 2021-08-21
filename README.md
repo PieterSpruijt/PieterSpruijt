@@ -3,6 +3,7 @@
 
 ## Languages
 <a href="https://nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="40" height="40"/>
+<a href="https://discord.js.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/55944075/130318395-63cc9ce2-1b24-4473-b3d9-e77ab7983c2a.png" alt="Discord.js" width="40" height="40"/>
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" width="40" height="40"/> 
 <a href="https://www.mongodb.com/try#production" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="40" height="40"/>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typeschrift" width="40" height="40"/>
