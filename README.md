@@ -12,11 +12,12 @@
 
 ## Projects
 - Essentials bot on discord: [**Invite**](https://www.essentialsbot.ga/links/invite.html), [**Website**](https://www.essentialsbot.ga/), [**Support Server**](https://www.essentialsbot.ga/links/support.html)
+- [A-Tempo](https://GitHub.com/A-Tempo)/[Fifth Encore](https://fifthencore.com)
 
 ## Socials
 * Twitter - [@PieterSpruijt](https://twitter.com/PieterSpruijt)
 * Discord Server - [Invite Link](https://www.PieterSpruijt.nl/discord)
-* Website - [pietespruijt.nl](https://pieterspruijt.nl)
+* Website - [pietespruijt.nl](https://pieterspruijt.nl) | [pieterspruijt.studio](https://PieterSpruijt.studio) **#SOON**
 * Email - pieter@pieterspruijt.nl
 * Discord - PieterSpruijt#5136
 
