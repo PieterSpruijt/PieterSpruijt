@@ -11,7 +11,7 @@
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
 
 ## Projects
-Essentials bot on discord: [Invite](https://www.essentialsbot.ga/links/invite.html), [Website](https://www.essentialsbot.ga/), [Support Server](https://www.essentialsbot.ga/links/support.html)
+- Essentials bot on discord: [**Invite**](https://www.essentialsbot.ga/links/invite.html), [**Website**](https://www.essentialsbot.ga/), [**Support Server**](https://www.essentialsbot.ga/links/support.html)
 
 ## Socials
 * Twitter - [@PieterSpruijt](https://twitter.com/PieterSpruijt)
