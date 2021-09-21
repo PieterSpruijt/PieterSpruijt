@@ -10,6 +10,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typeschrift" width="40" height="40"/><a/>
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/><a/>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/><a/>
+  <a href="https://developer.chrome.com/docs/extensions/mv3/getstarted/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="Chrome Extentions" width="40" height="40"/><a/>
 
 ## Projects
 - Essentials bot on discord: [**Invite**](https://www.essentialsbot.ga/links/invite.html), [**Website**](https://www.essentialsbot.ga/), [**Support Server**](https://www.essentialsbot.ga/links/support.html), [**GitHub**](https://github.com/EssentialsDiscord/essentials)
