@@ -17,8 +17,8 @@
 
 ## Socials
 * Twitter - [@PieterSpruijt](https://twitter.com/PieterSpruijt)
-* Discord Server - [Invite Link](https://www.PieterSpruijt.nl/discord)
-* Website - [pietespruijt.nl](https://pieterspruijt.nl) | [pieterspruijt.studio](https://PieterSpruijt.studio) **#SOON**
+* Discord Server - [Invite Link](https://discord.gg/8zpRKWPEGm)
+* Website - [pietespruijt.nl](https://pieterspruijt.nl) | [spruijtstudios.com](https://spruijtstudios.com) **#SOON**
 * Email - pieter@pieterspruijt.nl
 * Discord - PieterSpruijt#5136
 
