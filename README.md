@@ -13,7 +13,6 @@
   <a href="https://developer.chrome.com/docs/extensions/mv3/getstarted/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="Chrome Extentions" width="40" height="40"/><a/>
 
 ## Projects
-- Essentials bot on discord: [**Invite**](https://www.essentialsbot.ga/links/invite.html), [**Website**](https://www.essentialsbot.ga/), [**Support Server**](https://www.essentialsbot.ga/links/support.html), [**GitHub**](https://github.com/EssentialsDiscord/essentials)
 - [A-Tempo](https://GitHub.com/A-Tempo)/[Fifth Encore](https://fifthencore.com)
 
 ## Socials
