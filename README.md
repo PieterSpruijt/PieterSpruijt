@@ -1,3 +1,15 @@
+
+<p align="center" ## Me <img src= "https://cdn.discordapp.com/emojis/894175687878017055.png?size=80" alt='stats' width="20px">
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PieterSpruijt" alt="Profile Views" /> </p>  
+
+<p align="center">
+  <a href="https://discord.com/users/628205772509151240">
+     <img src="https://discord.c99.nl/widget/theme-4/628205772509151240.png" alt="PieterSpruijt#5136 ( 628205772509151240 )"/>
+       </a>
+</p>
+
+
 ## Support Me
 <a href='https://ko-fi.com/pieterspruijt' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
