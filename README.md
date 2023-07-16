@@ -28,11 +28,10 @@
 - [Solmate](https://solmatebot.com/)
 
 ## Socials
-* Twitter - [@PieterSpruijt](https://twitter.com/PieterSpruijt)
-* Discord Server - [Invite Link](https://discord.gg/8zpRKWPEGm)
-* Website - [pietespruijt.nl](https://pieterspruijt.nl) | [spruijtstudios.com](https://spruijtstudios.com) **#SOON**
-* Email - pieter@pieterspruijt.nl
-* Discord - PieterSpruijt#5136
+* Twitter - [@spruijtstudios](https://twitter.com/spruijtstudios)
+* Portfolio - [spruijtstudios.com](https://spruijtstudios.com)
+* Email - pieter@spruijtstudios.com
+* Discord - spruijt
 
 <br>
 
