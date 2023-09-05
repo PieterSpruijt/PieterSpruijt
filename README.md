@@ -14,6 +14,7 @@
 <a href='https://ko-fi.com/pieterspruijt' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
 ## Languages
+<a href="https://svelte.dev/" target="_blank"><img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" alt="SvelteKit" width="40" height="40"/><a/>
 <a href="https://nodejs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="40" height="40"/><a/>
 <a href="https://discord.js.org/" target="_blank"><img src="https://user-images.githubusercontent.com/55944075/130318395-63cc9ce2-1b24-4473-b3d9-e77ab7983c2a.png" alt="Discord.js" width="40" height="40"/><a/>
 <a href="https://expressjs.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40"/><a/>
